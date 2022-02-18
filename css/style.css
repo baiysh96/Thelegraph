@@ -281,6 +281,32 @@ a {
     padding: 50px 0;
     background: #00194A;
     border-radius: 25px;
+    position: relative;
+}
+.app__content-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+.app__content-desc {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+
+
+}
+.app__btn {
+    position: absolute;
+    left: 38%;
+    bottom: 10px;
 }
 .footer {
     padding: 80px 0 ;
