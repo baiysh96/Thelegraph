@@ -59,7 +59,6 @@ a {
     font-weight: 500;
     font-size: 60px;
     line-height: 85px;
-    /* or 142% */
     color: #00194A;
     margin-bottom: 20px;
 }
@@ -276,6 +275,16 @@ a {
     color: black;
     text-decoration: none;
 }
+
+
+.app__content {
+    padding: 50px 0;
+    background: #00194A;
+    border-radius: 25px;
+}
+.footer {
+    padding: 80px 0 ;
+}
 .footer__content {
     display: flex;
     justify-content: space-between;
@@ -298,4 +307,5 @@ a {
     line-height: 19px;
     text-align: right;
     color: #00194A;
+    margin: 0 30px;
 }
