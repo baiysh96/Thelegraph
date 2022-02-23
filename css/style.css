@@ -282,6 +282,7 @@ a {
     background: #00194A;
     border-radius: 25px;
     position: relative;
+    height: 346px;
 }
 .app__content-title {
     font-style: normal;
